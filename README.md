@@ -1,5 +1,5 @@
 <h1 align="center">## ¡Hello, there! Soy Abraham 👋</h1>
-<img src="">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.universitatcarlemany.com%2Factualidad%2Fblog%2Fdesarrollo-tecnologia%2F&psig=AOvVaw0yL5X39Ga-w-eI_5quoSzN&ust=1746367773279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi7q4i9h40DFQAAAAAdAAAAABAJ" alt="imagen tecnologica">
 <!--
 **AbrahamJimenezCasas/AbrahamJimenezCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
